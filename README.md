@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timothy Mwau
 
-🎓 Student of pathway proograme @ Africa Leadership Experience|💻 Software Engineering Trainee @ Power Learn Project (PLP)  
+🎓 Student of pathway programe @ Africa Leadership Experience|💻 Software Engineering Trainee @ Power Learn Project (PLP)  
 🚀 Passionate about building smart digital tools for Africa's future
 
 ## 🔧 Skills
