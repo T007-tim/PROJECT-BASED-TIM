@@ -1,0 +1,13 @@
+from logging import config
+from tkinter import *
+#from tkinter import messagebox
+from tkinter.font import Font
+
+root = Tk()
+root.title("Sample Tkinter App")
+root.geometry("500x300")
+root.config(bg="#579441")
+
+root.mainloop()
+root.winfo_depth(bg="#408683")
+root.winfo_height(bg="#490439")
